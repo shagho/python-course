@@ -1,0 +1,3 @@
+It's python course
+ in this session we want to work with files.
+it's sentence that append to this file.
